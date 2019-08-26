@@ -1,5 +1,5 @@
-# :sparkles: Actual Console Pong
+# :sparkles: Actual Console Pong :sparkles:
 
 ![](ylmxdd.gif)
 
-**:sparkling_heart: This was made out of _total_ boredom, and I apologize in advance..**
+**This was made out of _total_ boredom, and I apologize in advance.. :sparkling_heart:**
