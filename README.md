@@ -2,4 +2,4 @@
 
 ![](ylmxdd.gif)
 
-*was***really***bored*
+*was **really** bored*
