@@ -1,4 +1,5 @@
-# :sparkles: actual console pong :sparkles:
+# :sparkles: ACTUAL Console Pong :sparkles:
 
-**made out of _total_ boredom**
 ![](ylmxdd.gif)
+
+**This was made out of _total_ boredom.**
