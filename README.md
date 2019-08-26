@@ -1,3 +1,3 @@
-# gif
+# literal console pong
 
 ![](ylmxdd.gif)
