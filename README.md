@@ -1,7 +1,2 @@
-# literal console pong
-
+# :star: Actual Console Pong :sparkling_heart:
 ![](ylmxdd.gif)
-
-*I was :sleeping: **quite bored** :sleeping: and I've never actually made a console game..*
-
-*So, I've decided to make this, an _actual console pong_*
